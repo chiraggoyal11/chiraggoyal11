@@ -42,6 +42,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📘 Concepts & Domains
+<details>
+<summary>Click to expand</summary>
+
 ![OOP](https://img.shields.io/badge/OOPs-007ACC?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-F7931E?style=for-the-badge)
 ![OS](https://img.shields.io/badge/OS-FF6F61?style=for-the-badge)
@@ -50,17 +53,18 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge)
 
-
 </details>
 
 ---
 
 ## 🚀 Featured Projects
-| Project | Tech Stack | Link / Demo |
-|---------|------------|-------------|
-| Denote | React, Node.js, MongoDB | [GitHub](https://github.com/chiraggoyal11/Denote) |
-| Kidney Stone Detector | Python, PyTorch, OpenCV | [GitHub](https://github.com/chiraggoyal11/Kidney-Stone-Detector) |
-| Semantic Analyzer | Python, NLP, ML | [GitHub](https://github.com/chiraggoyal11/Semantic-Analyzer) |
+| Project | Tech Stack | Demo / GitHub |
+|---------|------------|---------------|
+| Denote | React, Node.js, MongoDB | ![Demo](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif) [GitHub](https://github.com/chiraggoyal11/Denote) |
+| Kidney Stone Detector | Python, PyTorch, OpenCV | ![Demo](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) [GitHub](https://github.com/chiraggoyal11/Kidney-Stone-Detector) |
+| Semantic Analyzer | Python, NLP, ML | ![Demo](https://media.giphy.com/media/26gsgIhv8L7zCz0A4/giphy.gif) [GitHub](https://github.com/chiraggoyal11/Semantic-Analyzer) |
+
+> **Tip:** Replace GIF URLs with real screenshots or GIFs of your projects for best effect.
 
 ---
 
@@ -74,7 +78,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag1425)
 [![Email](https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white)](mailto:chiraggoyal142507@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-333333?logo=leetcode&logoColor=FFA116)](https://leetcode.com/chirag1114)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chirag_ai22)
 
 ---
 
