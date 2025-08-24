@@ -73,7 +73,7 @@
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag1425)
 [![Email](https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white)](mailto:chiraggoyal142507@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-333333?logo=leetcode&logoColor=FFA116)](https://leetcode.com/chiragl114)
+[![LeetCode](https://img.shields.io/badge/LeetCode-333333?logo=leetcode&logoColor=FFA116)](https://leetcode.com/chiragl14)
 
 
 ---
