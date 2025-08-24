@@ -42,6 +42,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📘 Concepts & Domains
+<details>
+<summary>Click to expand</summary>
+
 ![OOP](https://img.shields.io/badge/-OOPs-007ACC?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/-DSA-F7931E?style=for-the-badge)
 ![OS](https://img.shields.io/badge/-OS-FF6F61?style=for-the-badge)
@@ -50,19 +53,32 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=for-the-badge)
 
+</details>
 
 ---
 
-
+## 🚀 Featured Projects
+| Project | Tech Stack | Link / Demo |
+|---------|------------|-------------|
+| Denote | React, Node.js, MongoDB | [GitHub](https://github.com/chiraggoyal11/Denote) |
+| Kidney Stone Detector | Python, PyTorch, OpenCV | [GitHub](https://github.com/chiraggoyal11/Kidney-Stone-Detector) |
+| Semantic Analyzer | Python, NLP, ML | [GitHub](https://github.com/chiraggoyal11/Semantic-Analyzer) |
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiraggoyal11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraggoyal11&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiraggoyal11&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraggoyal11&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag1425)
 [![Email](https://img.shields.io/badge/Email-me-red?logo=gmail&logoColor=white)](mailto:chiraggoyal142507@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-333333?logo=leetcode&logoColor=FFA116)](https://leetcode.com/chiraggoyal11)
+
+
+---
+
+> "Coding is my superpower 💻✨"  
+> "AI enthusiast | Always learning new tech 🧠"
