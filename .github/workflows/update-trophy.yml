@@ -1,0 +1,49 @@
+name: Update GitHub Trophy
+
+on:
+  push:
+    paths:
+      - '.github/workflows/update-trophy.yml'
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=radical&column=6&margin-w=10&no-bg=true&no-frame=true'
+          path: .github/assets/github-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Use local trophy in README
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('README.md')
+          s = p.read_text()
+          old = 'https://github-profile-trophy.vercel.app/?username=chiraggoyal11&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6'
+          new = './.github/assets/github-trophy.svg'
+          if old in s:
+              s = s.replace(old, new)
+          p.write_text(s)
+          PY
+
+      - name: Commit generated trophy
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/assets/github-trophy.svg README.md
+          git diff --cached --quiet || git commit -m 'chore: generate GitHub trophy'
+          git push
