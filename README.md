@@ -72,7 +72,17 @@ Computer Science graduate specializing in **backend and full-stack software deve
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+### 📅 MeetGrid — Meeting Scheduling Platform
+**Java 21 · Spring Boot · PostgreSQL · Docker · REST APIs · Razorpay · Google Calendar · Resend**
+
+Self-hosted meeting scheduling platform where hosts publish booking pages and guests choose available time slots. Includes availability rules, buffers, booking limits, blocked dates, rescheduling/cancellation, calendar integration, email notifications and paid booking flows. The project is a Java 21 + Spring Boot application with a database-backed architecture. fileciteturn13file0L2-L2
+
+<p>
+<a href="https://meetgrid.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-MeetGrid-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://github.com/chiraggoyal11/meetgrid"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ### 📝 DeNote — Decentralized Notes App
 **Jetpack Compose · Node.js · Express · MongoDB · IPFS · Pinata · Multer**
@@ -81,7 +91,10 @@ Computer Science graduate specializing in **backend and full-stack software deve
 - Developed a Node.js/Express backend with **MongoDB + Multer**, supporting **150+ secure file transactions daily**.
 - Added **PDF preview and caching** using Jetpack Compose, reducing repeat load times by **40%**.
 
-🔗 [View DeNote →](https://github.com/chiraggoyal11/DeNote)
+<p>
+<a href="https://denote-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-DeNote-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/chiraggoyal11/DeNote"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ### 🛒 Violet — E-commerce Android App
 **Java · XML · Material Design · Node.js · Express · MongoDB · AWS S3 · Retrofit · JWT**
@@ -90,14 +103,29 @@ Computer Science graduate specializing in **backend and full-stack software deve
 - Built a scalable Node.js/Express backend with **JWT authentication, AWS S3 and optimized MongoDB schemas**, improving API performance by **45%**.
 - Integrated **Retrofit + local caching**, reducing redundant network calls by **35%**.
 
-🔗 [View Violet →](https://github.com/chiraggoyal11/Violet)
+<p>
+<a href="https://violet-psi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Violet-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/chiraggoyal11/Violet"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
-### 🤖 AI / ML Projects
+### 🩺 Kidney Stone Detector — AI/ML Application
+**Python · PyTorch · OpenCV**
 
-| Project | Technologies | Repository |
-|---|---|---|
-| Kidney Stone Detector | Python · PyTorch · OpenCV | [GitHub →](https://github.com/chiraggoyal11/Kidney-Stone-Detector) |
-| Semantic Analyzer | Python · NLP · ML | [GitHub →](https://github.com/chiraggoyal11/Semantic-Analyzer) |
+AI/ML project for kidney-stone detection using computer vision and deep learning technologies.
+
+<p>
+<a href="https://kidney-stone-detector-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Kidney%20Stone%20Detector-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+<a href="https://github.com/chiraggoyal11/Kidney-Stone-Detector"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+### 🤖 Semantic Analyzer — NLP / ML
+**Python · NLP · Machine Learning**
+
+Natural-language processing and machine-learning project focused on semantic analysis.
+
+<p>
+<a href="https://github.com/chiraggoyal11/Semantic-Analyzer"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
