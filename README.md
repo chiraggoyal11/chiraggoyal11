@@ -92,7 +92,7 @@ Self-hosted meeting scheduling platform where hosts publish booking pages and gu
 - Added **PDF preview and caching** using Jetpack Compose, reducing repeat load times by **40%**.
 
 <p>
-<a href="https://denote-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-DeNote-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://de-note-theta.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-DeNote-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/chiraggoyal11/DeNote"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
