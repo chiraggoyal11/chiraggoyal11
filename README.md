@@ -1,40 +1,122 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Chirag+Goyal+%F0%9F%91%8B;Software+Developer+%7C+Backend+%26+Full-Stack;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;Cloud+%7C+DevOps+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+# 👋 Hi, I'm Chirag Goyal
 
-<p><b>Backend • Full-Stack • Cloud • AI/ML</b></p>
+### Software Developer • Backend • Full-Stack • Cloud • AI/ML
 
-<a href="https://github.com/chiraggoyal11"><img src="https://img.shields.io/badge/GitHub-chiraggoyal11-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://linkedin.com/in/chirag1425"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:chiraggoyal142507@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
-<a href="./Resume.md"><img src="https://img.shields.io/badge/Resume-View-4B5563?style=for-the-badge&logo=readthedocs" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;REST+APIs+%7C+Microservices+%7C+Distributed+Systems;AWS+%7C+Docker+%7C+Kafka+%7C+AI%2FML;Building+scalable+and+useful+software+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=chiraggoyal11&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+<p>
+<a href="https://github.com/chiraggoyal11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/chirag1425"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chiraggoyal142507@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="./Resume.md"><img src="https://img.shields.io/badge/Resume-View-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+</p>
 
-<p><b>Building scalable backend systems, REST APIs, microservices, full-stack applications and AI/ML projects.</b></p>
+<img src="https://komarev.com/ghpvc/?username=chiraggoyal11&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Computer Science graduate specializing in **backend and full-stack software development**, with experience building scalable REST APIs and microservices using **Java, Spring Boot, Node.js and Express**. Hands-on exposure to **AWS, Docker, Kafka, SQL/NoSQL databases, CI/CD, testing and Agile/Scrum**.
+I'm a **Computer Science graduate specializing in backend and full-stack software development**, with hands-on experience building REST APIs, microservices, fintech workflows, mobile applications and AI/ML projects.
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning, B.M.S. College of Engineering
-- 💼 Graduate Intern at **Zeta** — Java, Spring Boot, REST APIs, microservices and fintech workflows
-- 🚀 Interested in backend engineering, distributed systems, cloud, DevOps and AI/ML
-- 🧠 Strong foundation in DSA, OOP, DBMS, Operating Systems and Computer Networks
+- 💼 **Graduate Intern @ Zeta** — Java, Spring Boot, REST APIs, microservices and fintech
+- 🎓 **B.Tech — Artificial Intelligence & Machine Learning**, B.M.S. College of Engineering
+- 🏗️ Interested in **backend engineering, distributed systems, cloud, DevOps and system design**
+- 🧠 Strong foundation in **DSA, OOP, DBMS, OS and Computer Networks**
+- 📍 **Open to Software Developer opportunities across India**
+
+> **I enjoy turning complex requirements into clean, scalable and production-oriented software.**
 
 ---
 
-## 🛠️ Skills
+## 💼 Experience
 
-### 💻 Languages
+### 🏢 Zeta — Graduate Intern
+**Jan 2026 – Jun 2026 · Bangalore, India**
+
+| Impact | What I worked on |
+|---|---|
+| ⚡ **50% reduction** | Built an automated API testing framework, reducing manual QA effort |
+| 🏗️ **Microservices** | Developed Java + Spring Boot REST APIs for fintech workflows |
+| 💳 **Multi-tenant platform** | Worked on a configurable credit-card platform supporting multiple client deployments |
+| 📡 **Event-driven systems** | Integrated Kafka, FCM and MoEngage for notifications and customer engagement |
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 💡 What it does | 🛠️ Technology | 🔗 Links |
+|---|---|---|---|
+| 📅 **MeetGrid** | Meeting scheduling with availability, bookings, calendars, payments & notifications | Java · Spring Boot · PostgreSQL · Docker | [**Live Demo**](https://meetgrid.onrender.com) · [**GitHub**](https://github.com/chiraggoyal11/meetgrid) |
+| 📝 **DeNote** | Decentralized notes/files with IPFS storage and PDF handling | Jetpack Compose · Node.js · MongoDB · IPFS | [**Live Demo**](https://de-note-theta.vercel.app) · [**GitHub**](https://github.com/chiraggoyal11/DeNote) |
+| 🟣 **Violet** | Full-stack e-commerce Android application | Java · Android · Node.js · MongoDB · AWS S3 · JWT | [**Live Demo**](https://violet-psi.vercel.app/) · [**GitHub**](https://github.com/chiraggoyal11/Violet) |
+| 🩺 **Kidney Stone Detector** | Computer-vision / deep-learning based detection application | Python · PyTorch · OpenCV | [**Live Demo**](https://kidney-stone-detector-frontend.onrender.com/) · [**GitHub**](https://github.com/chiraggoyal11/Kidney-Stone-Detector) |
+| 🧠 **Semantic Analyzer** | NLP / machine-learning project for semantic analysis | Python · NLP · ML | [**GitHub**](https://github.com/chiraggoyal11/Semantic-Analyzer) |
+
+</div>
+
+### 📅 MeetGrid
+**Java 21 · Spring Boot · PostgreSQL · Docker · REST APIs · Razorpay · Google Calendar · Resend**
+
+A meeting scheduling platform where hosts publish booking pages and guests choose available time slots. Includes availability rules, buffers, booking limits, blocked dates, rescheduling/cancellation, calendar integration, email notifications and paid booking flows.
+
+**Highlights:**
+- 📆 Flexible availability and booking rules
+- 🔄 Rescheduling and cancellation workflows
+- 📅 Google Calendar integration
+- 💳 Paid booking flow with Razorpay
+- 📧 Email notifications with Resend
+- 🐳 Dockerized Java/Spring Boot backend
+
+### 📝 DeNote
+**Jetpack Compose · Node.js · Express · MongoDB · IPFS · Pinata · Multer**
+
+A decentralized notes/file application combining a modern Android UI with IPFS-based storage.
+
+**Highlights:**
+- 🌐 Pinata + IPFS based decentralized file storage
+- 📁 Node.js/Express backend with MongoDB and Multer
+- 📄 PDF preview and caching
+- ⚡ Reduced repeat loading through local caching
+
+### 🟣 Violet
+**Java · XML · Material Design · Node.js · Express · MongoDB · AWS S3 · Retrofit · JWT**
+
+A full-stack e-commerce Android application with a dedicated backend and cloud storage.
+
+**Highlights:**
+- 📱 12+ screen Android UI
+- 🔐 JWT authentication
+- ☁️ AWS S3 integration
+- 🗄️ Optimized MongoDB schemas
+- 🔌 Retrofit-based API integration and local caching
+
+### 🩺 Kidney Stone Detector
+**Python · PyTorch · OpenCV**
+
+AI/ML application using computer vision and deep-learning technologies for kidney-stone detection.
+
+### 🧠 Semantic Analyzer
+**Python · NLP · Machine Learning**
+
+NLP/ML project focused on semantic analysis and language-processing workflows.
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Languages
 `Java` `Python` `C++` `JavaScript` `SQL` `HTML` `CSS`
 
-### ⚡ Backend & Frameworks
+### ⚙️ Backend & Frameworks
 `Spring Boot` `Hibernate` `Node.js` `Express.js` `ReactJS` `Django` `REST APIs` `Microservices`
 
 ### 📱 Android
@@ -60,85 +142,12 @@ Computer Science graduate specializing in **backend and full-stack software deve
 
 ---
 
-## 💼 Experience
-
-### Zeta — Graduate Intern
-**January 2026 – June 2026 | Bangalore, India**
-
-- Developed and enhanced **Java + Spring Boot REST APIs and microservices** supporting fintech and credit-card workflows.
-- Built an **automated API testing framework** covering onboarding, transactions, repayments and profile management, reducing manual QA effort by **50%**.
-- Designed backend logic for a **multi-tenant credit-card platform** supporting three configurable client deployments.
-- Integrated **Kafka, Firebase Cloud Messaging (FCM) and MoEngage** for reliable event-driven notifications and customer engagement.
-
----
-
-## 🚀 Projects
-
-### 📅 MeetGrid — Meeting Scheduling Platform
-**Java 21 · Spring Boot · PostgreSQL · Docker · REST APIs · Razorpay · Google Calendar · Resend**
-
-Self-hosted meeting scheduling platform where hosts publish booking pages and guests choose available time slots. Includes availability rules, buffers, booking limits, blocked dates, rescheduling/cancellation, calendar integration, email notifications and paid booking flows. The project is a Java 21 + Spring Boot application with a database-backed architecture. fileciteturn13file0L2-L2
-
-<p>
-<a href="https://meetgrid.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-MeetGrid-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
-<a href="https://github.com/chiraggoyal11/meetgrid"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-### 📝 DeNote — Decentralized Notes App
-**Jetpack Compose · Node.js · Express · MongoDB · IPFS · Pinata · Multer**
-
-- Integrated **Pinata + IPFS** for decentralized file uploads, doubling file reliability and availability.
-- Developed a Node.js/Express backend with **MongoDB + Multer**, supporting **150+ secure file transactions daily**.
-- Added **PDF preview and caching** using Jetpack Compose, reducing repeat load times by **40%**.
-
-<p>
-<a href="https://de-note-theta.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-DeNote-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/chiraggoyal11/DeNote"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-### 🛒 Violet — E-commerce Android App
-**Java · XML · Material Design · Node.js · Express · MongoDB · AWS S3 · Retrofit · JWT**
-
-- Designed and implemented a **12+ screen Android UI**, improving navigation speed by **30%**.
-- Built a scalable Node.js/Express backend with **JWT authentication, AWS S3 and optimized MongoDB schemas**, improving API performance by **45%**.
-- Integrated **Retrofit + local caching**, reducing redundant network calls by **35%**.
-
-<p>
-<a href="https://violet-psi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Violet-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/chiraggoyal11/Violet"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-### 🩺 Kidney Stone Detector — AI/ML Application
-**Python · PyTorch · OpenCV**
-
-AI/ML project for kidney-stone detection using computer vision and deep learning technologies.
-
-<p>
-<a href="https://kidney-stone-detector-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Kidney%20Stone%20Detector-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
-<a href="https://github.com/chiraggoyal11/Kidney-Stone-Detector"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
-### 🤖 Semantic Analyzer — NLP / ML
-**Python · NLP · Machine Learning**
-
-Natural-language processing and machine-learning project focused on semantic analysis.
-
-<p>
-<a href="https://github.com/chiraggoyal11/Semantic-Analyzer"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-## 🧠 Core CS
-
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `RDBMS` · `Operating Systems` · `Computer Networks` · `Machine Learning` · `Deep Learning` · `System Design` · `SDLC`
-
----
-
-## 🏆 GitHub Trophies
+## 🧠 Core Computer Science
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chiraggoyal11&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+`DSA` · `OOP` · `DBMS` · `RDBMS` · `Operating Systems` · `Computer Networks` · `Machine Learning` · `Deep Learning` · `System Design` · `SDLC`
+
 </div>
 
 ---
@@ -146,17 +155,27 @@ Natural-language processing and machine-learning project focused on semantic ana
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chiraggoyal11&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraggoyal11&layout=compact&theme=radical&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chiraggoyal11&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraggoyal11&layout=compact&theme=radical&hide_border=true" />
+
 <br/>
+
 <img src="https://streak-stats.demolab.com?user=chiraggoyal11&theme=radical&hide_border=true" alt="GitHub streak" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiraggoyal11&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chiraggoyal11&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/chiraggoyal11/chiraggoyal11/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
@@ -166,33 +185,54 @@ Natural-language processing and machine-learning project focused on semantic ana
 
 ## 🏆 Certifications
 
-- **Java Programming Certificate** — Udemy / In28minutes, March 2026
-- **React JS – Skill Development Program** — BMSCE ACM Student Chapter, May 2025
+- **Java Programming Certificate** — Udemy / In28minutes · March 2026
+- **React JS – Skill Development Program** — BMSCE ACM Student Chapter · May 2025
 
 ---
 
 ## 📄 Resume
 
 <div align="center">
-<a href="./Resume.md"><img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-4B5563?style=for-the-badge" /></a>
+
+<a href="./Resume.md"><img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-4B5563?style=for-the-badge" /></a>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Open to Opportunities
 
 <div align="center">
-<a href="https://linkedin.com/in/chirag1425"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chiraggoyal142507@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/chirag1114"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/chirag_ai22"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
+### 💼 Software Developer · Backend Developer · Full-Stack Developer
+
+**Java • Spring Boot • Node.js • React • Cloud • AI/ML**
+
+I'm currently open to **full-time software development opportunities** and can relocate across India.
+
+<a href="mailto:chiraggoyal142507@gmail.com"><img src="https://img.shields.io/badge/📧_Let's_Talk-EA4335?style=for-the-badge" /></a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/chirag1425"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/chiraggoyal11"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/chirag1114"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/chirag_ai22"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💻 Coding is my superpower.
-**Always building. Always learning. Always improving. 🚀**
+### 🚀 Build. Learn. Ship. Repeat.
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
