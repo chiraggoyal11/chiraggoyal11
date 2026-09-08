@@ -8,7 +8,7 @@
   <a href="https://github.com/chiraggoyal11"><img src="https://img.shields.io/badge/GitHub-chiraggoyal11-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/chirag1425"><img src="https://img.shields.io/badge/LinkedIn-Chirag%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chiraggoyal142507@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="./Resume_chirag.pdf"><img src="https://img.shields.io/badge/Resume-View%20Resume-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="./Resume.md"><img src="https://img.shields.io/badge/Resume-View%20Resume-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 <p><b>Building scalable backend systems, REST APIs, microservices, full-stack applications and AI/ML projects.</b></p>
@@ -201,7 +201,7 @@
 
 ## 📄 Resume
 
-<a href="./Resume_chirag.pdf"><img src="https://img.shields.io/badge/📥%20Download%20Resume-PDF-4B5563?style=for-the-badge" /></a>
+<a href="./Resume.md"><img src="https://img.shields.io/badge/📄%20View%20Resume-Markdown-4B5563?style=for-the-badge" /></a>
 
 ---
 
