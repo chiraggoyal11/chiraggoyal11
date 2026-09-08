@@ -170,7 +170,9 @@ NLP/ML project focused on semantic analysis and language-processing workflows.
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chiraggoyal11&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=chiraggoyal11&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub achievements and trophies" />
+
 </div>
 
 ---
@@ -178,7 +180,11 @@ NLP/ML project focused on semantic analysis and language-processing workflows.
 ## 🐍 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/chiraggoyal11/chiraggoyal11/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+<p><strong>My GitHub contribution activity</strong></p>
+
+<img src="https://raw.githubusercontent.com/chiraggoyal11/chiraggoyal11/gh-pages/github-contribution-grid-snake.svg?raw=true" alt="GitHub contribution snake" width="100%" />
+
 </div>
 
 ---
